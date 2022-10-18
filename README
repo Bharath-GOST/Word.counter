@@ -1,0 +1,12 @@
+# Word
+Word counter
+
+This script is use for counting words 
+
+1) First save the file as word.txt or input the file name 
+**********************************************************
+2) ex_09.py it will count for first top repede word
+**********************************************************
+3) ex_10.py it will count for top 5 repede word 
+
+
