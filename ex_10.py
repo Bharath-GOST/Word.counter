@@ -1,5 +1,5 @@
 fname = input('Enter File: ')
-if len(fname) < 1 : fname = 'words.txt'
+if len(fname) < 1 : fname = 'words.txt' ## save file as words.txt, you don't need to input a file 
 hand = open(fname)
 
 di =dict()
